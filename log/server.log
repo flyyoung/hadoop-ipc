@@ -1,0 +1,525 @@
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59434; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:59434
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 6 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59434
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 134
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59434 Wrote 326 bytes.
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:59434
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 2 procesingTime= 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59434
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 10
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59436; # active connections: 2; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #2
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59434 Wrote 385 bytes.
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #2 from 10.6.11.110:59436
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: generate queueTime= 1 procesingTime= 8
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59436
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59436 Wrote 145883 bytes.
+DEBUG main com.jiangdx.ipc.RPC - Call: generate() 54
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59434. Number of active connections: 2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59436. Number of active connections: 1
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59508; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:59508
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59508
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 196
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59508 Wrote 326 bytes.
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:59508
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 1 procesingTime= 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59508
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 7
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59508 Wrote 385 bytes.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59509; # active connections: 2; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #2 from 10.6.11.110:59509
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: generate queueTime= 1 procesingTime= 4
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59509
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59509 Wrote 145883 bytes.
+DEBUG main com.jiangdx.ipc.RPC - Call: generate() 42
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59508. Number of active connections: 2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59509. Number of active connections: 1
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59511; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:59511
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59511
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59511 Wrote 326 bytes.
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 71
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:59511
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59511
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59511 Wrote 385 bytes.
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 7
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59512; # active connections: 2; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #2 from 10.6.11.110:59512
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: generate queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59512
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59512 Wrote 145883 bytes.
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 2
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #2
+DEBUG main com.jiangdx.ipc.RPC - Call: generate() 26
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59511. Number of active connections: 2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59512. Number of active connections: 1
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59514; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:59514
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59514
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:59514 Wrote 326 bytes.
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 75
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:59514
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59514
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:59514 Wrote 385 bytes.
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 5
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:59515; # active connections: 2; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #2 from 10.6.11.110:59515
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: generate queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59515
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:59515 Wrote 145883 bytes.
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 2
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #2
+DEBUG main com.jiangdx.ipc.RPC - Call: generate() 24
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59514. Number of active connections: 2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:59515. Number of active connections: 1
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33649; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG main com.jiangdx.ipc.Client - IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:33649
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 3 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33649
+DEBUG IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33649 Wrote 326 bytes.
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 291246
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:33649. Number of active connections: 1
+DEBUG IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (18306082) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33654; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG main com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:33654
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33654
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33654 Wrote 326 bytes.
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 32465
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:33654. Number of active connections: 1
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33657; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG main com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:33657
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33657
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33657 Wrote 326 bytes.
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 70716
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:33657. Number of active connections: 1
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33679; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Client (9740137) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:33679. Number of active connections: 1
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33683; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG main com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:33683
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33683
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:33683 Wrote 326 bytes.
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 665452
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:33683. Number of active connections: 1
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33684; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG main com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:33684
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:33684
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 614389
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (23965177) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:33684 Wrote 385 bytes.
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:33684. Number of active connections: 1
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:33725; # active connections: 1; # queued calls: 0
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34484; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34484
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34484
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34484 Wrote 326 bytes.
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 261123
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:34484
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 2 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34484
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 114819
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34484 Wrote 385 bytes.
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #2
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34485; # active connections: 2; # queued calls: 0
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #2 from 10.6.11.110:34485
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: generate queueTime= 2 procesingTime= 17
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:34485
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user got value #2
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #2 from 10.6.11.110:34485 Wrote 145883 bytes.
+DEBUG main com.jiangdx.ipc.RPC - Call: generate() 31738
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34484. Number of active connections: 2
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34485. Number of active connections: 1
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34591; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34591
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 0 procesingTime= 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34591
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34591. Number of active connections: 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34591 Wrote 326 bytes.
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 129360
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34592; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34592. Number of active connections: 1
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34597; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34597
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 1 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34597
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34597 Wrote 326 bytes.
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 151980
+DEBUG main com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:34597
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34597
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34597 Wrote 385 bytes.
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 117638
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (7797664) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34597. Number of active connections: 1
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34603; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34603
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 2 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34603
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 139
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34603. Number of active connections: 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34603 Wrote 385 bytes.
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34606; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34606
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 4 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34606
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 109
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34606 Wrote 326 bytes.
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:34606
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 0 procesingTime= 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34606
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 8
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34606. Number of active connections: 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34606 Wrote 385 bytes.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+DEBUG IPC Server Responder com.jiangdx.ipc.Server - Checking for old call responses.
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34829; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34829
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 0 procesingTime= 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34829
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 351
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34829 Wrote 326 bytes.
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: closed
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: stopped, remaining connections 0
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34829. Number of active connections: 1
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34830; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:34830
+ERROR IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Unexpected throwable object 
+java.lang.NoSuchMethodException: examples.Echo.toString()
+	at java.lang.Class.getMethod(Class.java:1607)
+	at com.jiangdx.ipc.RPC$Server.call(RPC.java:370)
+	at com.jiangdx.ipc.Server$Handler.run(Server.java:1083)
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453 caught: java.lang.NullPointerException
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - handle timeout, then send ping...
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34830. Number of active connections: 1
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34833; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34833
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34833
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34833 Wrote 326 bytes.
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 157
+DEBUG main com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:34833
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 0 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34833
+DEBUG IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (25292190) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 6
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34833 Wrote 385 bytes.
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34833. Number of active connections: 1
+INFO pool-1-thread-1 com.jiangdx.ipc.Server - Starting SocketReader
+INFO IPC Server Responder com.jiangdx.ipc.Server - IPC Server Responder: starting
+INFO IPC Server listener on 4453 com.jiangdx.ipc.Server - IPC Server listener on 4453: starting
+INFO IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: starting
+DEBUG main com.jiangdx.ipc.Client - The ping interval is 60000 ms.
+DEBUG main com.jiangdx.ipc.Client - Connecting to /10.6.11.110:4453
+DEBUG IPC Server listener on 4453 com.jiangdx.ipc.Server - Server connection from 10.6.11.110:34836; # active connections: 1; # queued calls: 0
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #0
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user: starting, having connections 1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #0 from 10.6.11.110:34836
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: who queueTime= 2 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34836
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #0
+DEBUG main com.jiangdx.ipc.RPC - Call: who() 118
+DEBUG main com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user sending #1
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server -  got #1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #0 from 10.6.11.110:34836 Wrote 326 bytes.
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server handler 0 on 4453: has #1 from 10.6.11.110:34836
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - Served: from queueTime= 4 procesingTime= 0
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34836
+DEBUG IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user com.jiangdx.ipc.Client - IPC Client (24212267) connection to /10.6.11.110:4453 from an unknown user got value #1
+DEBUG main com.jiangdx.ipc.RPC - Call: from() 10
+DEBUG pool-1-thread-1 com.jiangdx.ipc.Server - IPC Server listener on 4453: disconnecting client 10.6.11.110:34836. Number of active connections: 1
+DEBUG IPC Server handler 0 on 4453 com.jiangdx.ipc.Server - IPC Server Responder: responding to #1 from 10.6.11.110:34836 Wrote 385 bytes.
